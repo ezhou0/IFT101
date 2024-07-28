@@ -1,0 +1,1 @@
+print('Phase 1: Understanding the problem.\nPhase 2: Devising a plan. \nPhase 3: Carrying out the plan. \nPhase 4: Looking back at the completed \n         solution to identify potential alternative \n         approaches and areas of improvement.')
